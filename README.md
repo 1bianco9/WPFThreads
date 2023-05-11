@@ -41,6 +41,7 @@ Una volta avviata l'applicazione vedremo questo: il pulsanste a sinistra serve a
 
 
 ![end](https://github.com/1bianco9/WPFThreads/assets/116873906/5834ccbf-9862-4cd9-bafb-ae7279d9fe42)
+
 Una volta schiaccaito il pulsanste vedremo questo. il nostro programma funziona.
 
 
